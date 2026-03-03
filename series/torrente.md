@@ -1,0 +1,12 @@
+TORRENTE EL BRAZO TONTO DE LA LEY 
+
+## Sinopsi
+EX POLICIA LOCO
+
+## Gèneres
+- HUMOR
+- POLICIACA
+- ...
+
+## Temporades
+TEMPORADA 1
