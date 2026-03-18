@@ -1,12 +1,12 @@
 # Interstellar
 
-- __Director__: Christopher Nolan
-- __Año de publicacion__: 2014
+## Sinopsi
+Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.
 
-## Sinopsis
-Un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allí.
-
-## Generos
+## Gèneres
 - Ciencia ficción
 - Drama
 - Aventura
+
+## Repartiment
+Christopher Nolan, Matthew McConaughey, Anne Hathaway, Jessica Chastain
