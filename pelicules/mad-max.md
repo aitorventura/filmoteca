@@ -1,22 +1,12 @@
-\# Mad Max
+# Mad Max: Fury Road
 
+## Sinopsi
+En un futur postapocalíptic, Max i Furiosa s'uneixen per escapar d'un tirà i conduir un grup de dones cap a la llibertat.
 
+## Gèneres
+- Acció
+- Ciència-ficció
 
-\- \_\_Autor\_\_: George Miller
-
-\- \_\_Any de publicació\_\_: 1979
-
-
-
-\## Sinopsi
-
-La saga Mad Max sigue a Max Rockatansky, quien tras sufrir la pérdida de su familia a manos de una pandilla de motociclistas en una Australia futurista colapsada, se convierte en un solitario guerrero de la carretera en un mundo distópico marcado por la escasez de recursos y el caos social.
-
-
-
-\## Gèneres
-
-\- Ciencia ficción
-
-\- Acción
-
+## Repartiment
+Director: George Miller  
+Actors principals: Tom Hardy, Charlize Theron
